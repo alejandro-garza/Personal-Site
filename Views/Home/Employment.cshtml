@@ -1,0 +1,166 @@
+﻿@{
+    ViewData["Title"] = "Employment";
+}
+<h1>@ViewData["Title"]</h1>
+<br />
+
+
+
+
+<div class="container px-4">
+
+    @*Current Employment*@
+    <div class="row justify-content-start gx-5">
+        <div class="align-self-start">
+            <h2 class="display-5">Current Employer</h2>
+        </div>
+    </div>
+    <br />
+
+    <div class="row justify-content-start gx-5">
+        <div class="align-self-start">
+            <ul class="list-unstyled">
+                @*Nansen*@
+                <li><strong>Nansen</strong> / Quality Assurance Intern</li>
+                <li><small>July 2020 - September 2020,  CHICAGO</small></li>
+                <li>
+                    <ul>
+                        <li>Monitored and worked on tickets within the Agile sprint process.</li>
+                        <li>Assisted in proposals for potential clients.</li>
+                        <li>Executed tests on bugs at all stages of production.</li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <br />
+
+    @*Previous Employment*@
+    <div class="row justify-content-start gx-5">
+        <div class="align-self-start">
+            <h2 class="display-5">Previous Employment</h2>
+        </div>
+    </div>
+    <br />
+
+    <div class="row justify-content-start gx-5">
+        <div class="align-self-start">
+            <ul class="list-unstyled">
+                @*Walmart*@
+                <li><strong>Walmart</strong> / Sales Associate</li>
+                <li>March 2016 - June  2020,  SAN ANTONIO</li>
+                <li>
+                    <ul>
+                        <li>Provided exemplary customer service adhering to company ethics and guidelines.</li>
+                        <li>Assisted in assigned departments where needed.</li>
+                        <li>Trained and managed new Sales Associates.</li>
+                    </ul>
+                </li>
+                <br />
+
+                @*Cost Plus*@
+                <li><strong>Cost Plus World Market</strong> / Sales Associate</li>
+                <li>November 2015 - March 2016,  SAN ANTONIO</li>
+                <li>
+                    <ul>
+                        <li>Promoted and sold merchandise while servicing customers and answering all customer inquiries.</li>
+                        <li>Assisted with cleaning, organizing, and cash handling.</li>
+                    </ul>
+                </li>
+                <br />
+
+            </ul>
+        </div>
+    </div>
+    <br />
+
+</div>
+
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <div class="container px-4">
+                <div class="row justify-content-start gx-5">
+                    <div class="align-self-start">
+                        <h2 class="display-5"><strong>Contact Information</strong></h2>
+                        <br />
+                        <p class="text-primary">210.705.9596<br />ialexgarza4@gmail.com</p>
+                        <p>Chicago, Illinios</p>
+                    </div>
+                </div>
+            </div>
+            <br />
+            <br />
+        </div>
+        <div class="col">
+            <div class="mb-3">
+                <label for="exampleFormControlInput1" class="form-label">Email Address</label>
+                <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+            </div>
+            <div class="mb-3">
+                <label for="exampleFormControlTextarea1" class="form-label">Message</label>
+                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+            </div>
+        </div>
+    </div>
+</div>
+<br />
+<br />
+
+
+<div class="container px-4">
+    <div class="row justify-content-start gx-5">
+        <div class="align-self-start">
+            <h2 class="display-5">Photo Gallery</h2> @**@
+        </div>
+    </div>
+</div>
+<br />
+
+<div class="container px-4">
+    <div class="row gx-5">
+        <div class="align-self-start">
+            <div id="carouselExampleCaptions" class="carousel slide rounded" data-bs-ride="carousel">
+                <div class="carousel-indicators">
+                    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                </div>
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="http://placeimg.com/640/480/people" class="d-block w-100 rounded" alt="...">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h5>First slide label</h5>
+                            <p>Some representative placeholder content for the first slide.</p>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="http://placeimg.com/640/480/people" class="d-block w-100 rounded" alt="...">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h5>Second slide label</h5>
+                            <p>Some representative placeholder content for the second slide.</p>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="http://placeimg.com/640/480/people" class="d-block w-100 rounded" alt="...">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h5>Third slide label</h5>
+                            <p>Some representative placeholder content for the third slide.</p>
+                        </div>
+                    </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<br />
+<br />
