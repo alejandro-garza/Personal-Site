@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/ProjectApp.csproj",
+      "projectUniqueName": "/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/ProjectApp.csproj",
       "projectName": "ProjectApp",
-      "projectPath": "/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/ProjectApp.csproj",
+      "projectPath": "/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/ProjectApp.csproj",
       "packagesPath": "/Users/Testing/.nuget/packages/",
-      "outputPath": "/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/obj/",
+      "outputPath": "/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Testing/.config/NuGet/NuGet.Config"
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.103/RuntimeIdentifierGraph.json"
       }
     }
   }
