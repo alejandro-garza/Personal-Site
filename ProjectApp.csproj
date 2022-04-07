@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Views\Employment\" />
+    <None Remove="Views\Index\" />
+    <None Remove="Views\Home %28copy%29\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\Employment\" />
+    <Folder Include="Views\Education\" />
+    <Folder Include="Views\Testing\" />
+  </ItemGroup>
+</Project>

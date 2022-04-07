@@ -1,0 +1,359 @@
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/bin/Debug/netcoreapp3.1/ProjectApp.deps.json
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/bin/Debug/netcoreapp3.1/ProjectApp.runtimeconfig.json
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/bin/Debug/netcoreapp3.1/ProjectApp.runtimeconfig.dev.json
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/bin/Debug/netcoreapp3.1/ProjectApp.dll
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/bin/Debug/netcoreapp3.1/ProjectApp.pdb
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/bin/Debug/netcoreapp3.1/ProjectApp.Views.dll
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/bin/Debug/netcoreapp3.1/ProjectApp.Views.pdb
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.csproj.AssemblyReference.cache
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.AssemblyInfoInputs.cache
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.AssemblyInfo.cs
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.csproj.CoreCompileInputs.cache
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.RazorAssemblyInfo.cache
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.RazorAssemblyInfo.cs
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/staticwebassets/ProjectApp.StaticWebAssets.Manifest.cache
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.TagHelpers.input.cache
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.TagHelpers.output.cache
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.RazorCoreGenerate.cache
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.RazorTargetAssemblyInfo.cache
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.RazorTargetAssemblyInfo.cs
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.Views.pdb
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.dll
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.pdb
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.genruntimeconfig.cache
+/Users/Testing/Desktop/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.csproj.CopyComplete
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/bin/Debug/netcoreapp3.1/ProjectApp.deps.json
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/bin/Debug/netcoreapp3.1/ProjectApp.runtimeconfig.json
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/bin/Debug/netcoreapp3.1/ProjectApp.runtimeconfig.dev.json
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/bin/Debug/netcoreapp3.1/ProjectApp.dll
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/bin/Debug/netcoreapp3.1/ProjectApp.pdb
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/bin/Debug/netcoreapp3.1/ProjectApp.Views.dll
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/bin/Debug/netcoreapp3.1/ProjectApp.Views.pdb
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.csproj.AssemblyReference.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.AssemblyInfoInputs.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.AssemblyInfo.cs
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.csproj.CoreCompileInputs.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.RazorAssemblyInfo.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.RazorAssemblyInfo.cs
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/staticwebassets/ProjectApp.StaticWebAssets.Manifest.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.TagHelpers.input.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.TagHelpers.output.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.RazorCoreGenerate.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.RazorTargetAssemblyInfo.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.RazorTargetAssemblyInfo.cs
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.Views.pdb
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.dll
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.pdb
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.genruntimeconfig.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.csproj.CopyComplete
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/bin/Debug/netcoreapp3.1/ProjectApp.deps.json
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/bin/Debug/netcoreapp3.1/ProjectApp.runtimeconfig.json
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/bin/Debug/netcoreapp3.1/ProjectApp.runtimeconfig.dev.json
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/bin/Debug/netcoreapp3.1/ProjectApp.dll
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/bin/Debug/netcoreapp3.1/ProjectApp.pdb
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/bin/Debug/netcoreapp3.1/ProjectApp.Views.dll
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/bin/Debug/netcoreapp3.1/ProjectApp.Views.pdb
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.csproj.AssemblyReference.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.AssemblyInfoInputs.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.AssemblyInfo.cs
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.csproj.CoreCompileInputs.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.RazorAssemblyInfo.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.RazorAssemblyInfo.cs
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/obj/Debug/netcoreapp3.1/staticwebassets/ProjectApp.StaticWebAssets.Manifest.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.TagHelpers.input.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.TagHelpers.output.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.RazorCoreGenerate.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.RazorTargetAssemblyInfo.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.RazorTargetAssemblyInfo.cs
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.Views.pdb
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.dll
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.pdb
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.genruntimeconfig.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp/obj/Debug/netcoreapp3.1/ProjectApp.csproj.CopyComplete
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/ProjectApp.deps.json
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/ProjectApp.runtimeconfig.json
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/ProjectApp.runtimeconfig.dev.json
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/ProjectApp.dll
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/ProjectApp.pdb
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/ProjectApp.Views.dll
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/ProjectApp.Views.pdb
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.csproj.AssemblyReference.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.AssemblyInfoInputs.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.AssemblyInfo.cs
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.csproj.CoreCompileInputs.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.RazorAssemblyInfo.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.RazorAssemblyInfo.cs
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/staticwebassets/ProjectApp.StaticWebAssets.Manifest.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.TagHelpers.input.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.TagHelpers.output.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.RazorCoreGenerate.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.RazorTargetAssemblyInfo.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.RazorTargetAssemblyInfo.cs
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.Views.pdb
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.dll
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.pdb
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.genruntimeconfig.cache
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.csproj.CopyComplete
+/Users/Testing/Desktop/ Desktop/ Nansen/BE Training/Coding/git/Training/Week-2/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Testing.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/ProjectApp.deps.json
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/ProjectApp.runtimeconfig.json
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/ProjectApp.runtimeconfig.dev.json
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/ProjectApp.dll
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/ProjectApp.pdb
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/ProjectApp.Views.dll
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/ProjectApp.Views.pdb
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.csproj.AssemblyReference.cache
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.AssemblyInfoInputs.cache
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.AssemblyInfo.cs
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.csproj.CoreCompileInputs.cache
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.RazorAssemblyInfo.cache
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.RazorAssemblyInfo.cs
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/staticwebassets/ProjectApp.StaticWebAssets.Manifest.cache
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.TagHelpers.input.cache
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.TagHelpers.output.cache
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.RazorCoreGenerate.cache
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Testing.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.RazorTargetAssemblyInfo.cache
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.RazorTargetAssemblyInfo.cs
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.Views.pdb
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.dll
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.pdb
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.genruntimeconfig.cache
+/Users/Testing/Desktop/ Desktop/Nansen/BE Training/Coding/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.csproj.CopyComplete
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/ProjectApp.deps.json
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/ProjectApp.runtimeconfig.json
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/ProjectApp.runtimeconfig.dev.json
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/ProjectApp.dll
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/ProjectApp.pdb
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/ProjectApp.Views.dll
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/ProjectApp.Views.pdb
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.csproj.AssemblyReference.cache
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.AssemblyInfoInputs.cache
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.AssemblyInfo.cs
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.csproj.CoreCompileInputs.cache
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.RazorAssemblyInfo.cache
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.RazorAssemblyInfo.cs
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/staticwebassets/ProjectApp.StaticWebAssets.Manifest.cache
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.TagHelpers.input.cache
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.TagHelpers.output.cache
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.RazorCoreGenerate.cache
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.RazorTargetAssemblyInfo.cache
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.RazorTargetAssemblyInfo.cs
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.Views.pdb
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.dll
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.pdb
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.genruntimeconfig.cache
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.csproj.CopyComplete
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Education.cshtml.g.cs
+/Users/Testing/Desktop/ Desktop/BE Training/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Employment.cshtml.g.cs
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.csproj.AssemblyReference.cache
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.AssemblyInfoInputs.cache
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.AssemblyInfo.cs
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.csproj.CoreCompileInputs.cache
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.RazorAssemblyInfo.cache
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.RazorAssemblyInfo.cs
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.dll
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.pdb
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/ProjectApp.deps.json
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/ProjectApp.runtimeconfig.json
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/ProjectApp.runtimeconfig.dev.json
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/ProjectApp.dll
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/ProjectApp.pdb
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/ProjectApp.Views.dll
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/bin/Debug/netcoreapp3.1/ProjectApp.Views.pdb
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/staticwebassets/ProjectApp.StaticWebAssets.Manifest.cache
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.TagHelpers.input.cache
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.TagHelpers.output.cache
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.RazorCoreGenerate.cache
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Education.cshtml.g.cs
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Employment.cshtml.g.cs
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.RazorTargetAssemblyInfo.cache
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.RazorTargetAssemblyInfo.cs
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.Views.pdb
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.genruntimeconfig.cache
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp2/obj/Debug/netcoreapp3.1/ProjectApp.csproj.CopyComplete
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.csproj.AssemblyReference.cache
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.AssemblyInfoInputs.cache
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.AssemblyInfo.cs
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.csproj.CoreCompileInputs.cache
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.RazorAssemblyInfo.cache
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.RazorAssemblyInfo.cs
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/staticwebassets/ProjectApp.StaticWebAssets.Manifest.cache
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.TagHelpers.input.cache
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.TagHelpers.output.cache
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.RazorCoreGenerate.cache
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/Razor/Views/Home/Education.cshtml.g.cs
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/Razor/Views/Home/Employment.cshtml.g.cs
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.RazorTargetAssemblyInfo.cache
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.RazorTargetAssemblyInfo.cs
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.dll
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.pdb
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/bin/Debug/netcoreapp3.1/ProjectApp.deps.json
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/bin/Debug/netcoreapp3.1/ProjectApp.runtimeconfig.json
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/bin/Debug/netcoreapp3.1/ProjectApp.runtimeconfig.dev.json
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/bin/Debug/netcoreapp3.1/ProjectApp.dll
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/bin/Debug/netcoreapp3.1/ProjectApp.pdb
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/bin/Debug/netcoreapp3.1/ProjectApp.Views.dll
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/bin/Debug/netcoreapp3.1/ProjectApp.Views.pdb
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.Views.pdb
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.genruntimeconfig.cache
+/Users/Testing/Downloads/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.csproj.CopyComplete
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.csproj.AssemblyReference.cache
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.AssemblyInfoInputs.cache
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.AssemblyInfo.cs
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.csproj.CoreCompileInputs.cache
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.RazorAssemblyInfo.cache
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.RazorAssemblyInfo.cs
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.dll
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.pdb
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/bin/Debug/netcoreapp3.1/ProjectApp.deps.json
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/bin/Debug/netcoreapp3.1/ProjectApp.runtimeconfig.json
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/bin/Debug/netcoreapp3.1/ProjectApp.runtimeconfig.dev.json
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/bin/Debug/netcoreapp3.1/ProjectApp.dll
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/bin/Debug/netcoreapp3.1/ProjectApp.pdb
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/bin/Debug/netcoreapp3.1/ProjectApp.Views.dll
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/bin/Debug/netcoreapp3.1/ProjectApp.Views.pdb
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/staticwebassets/ProjectApp.StaticWebAssets.Manifest.cache
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.TagHelpers.input.cache
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.TagHelpers.output.cache
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.RazorCoreGenerate.cache
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.RazorTargetAssemblyInfo.cache
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.RazorTargetAssemblyInfo.cs
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.Views.pdb
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.genruntimeconfig.cache
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/ProjectApp.csproj.CopyComplete
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/Razor/Views/Education/Index.cshtml.g.cs
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/Razor/Views/Employment/Index.cshtml.g.cs
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/ProjectApp3/obj/Debug/netcoreapp3.1/Razor/Views/Testing/Index.cshtml.g.cs
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/bin/Debug/netcoreapp3.1/ProjectApp.deps.json
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/bin/Debug/netcoreapp3.1/ProjectApp.runtimeconfig.json
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/bin/Debug/netcoreapp3.1/ProjectApp.runtimeconfig.dev.json
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/bin/Debug/netcoreapp3.1/ProjectApp.dll
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/bin/Debug/netcoreapp3.1/ProjectApp.pdb
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/bin/Debug/netcoreapp3.1/ProjectApp.Views.dll
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/bin/Debug/netcoreapp3.1/ProjectApp.Views.pdb
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/obj/Debug/netcoreapp3.1/ProjectApp.csproj.AssemblyReference.cache
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/obj/Debug/netcoreapp3.1/ProjectApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/obj/Debug/netcoreapp3.1/ProjectApp.AssemblyInfoInputs.cache
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/obj/Debug/netcoreapp3.1/ProjectApp.AssemblyInfo.cs
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/obj/Debug/netcoreapp3.1/ProjectApp.csproj.CoreCompileInputs.cache
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/obj/Debug/netcoreapp3.1/ProjectApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/obj/Debug/netcoreapp3.1/ProjectApp.RazorAssemblyInfo.cache
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/obj/Debug/netcoreapp3.1/ProjectApp.RazorAssemblyInfo.cs
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/obj/Debug/netcoreapp3.1/staticwebassets/ProjectApp.StaticWebAssets.Manifest.cache
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/obj/Debug/netcoreapp3.1/ProjectApp.TagHelpers.input.cache
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/obj/Debug/netcoreapp3.1/ProjectApp.TagHelpers.output.cache
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/obj/Debug/netcoreapp3.1/ProjectApp.RazorCoreGenerate.cache
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/obj/Debug/netcoreapp3.1/Razor/Views/Education/Index.cshtml.g.cs
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/obj/Debug/netcoreapp3.1/Razor/Views/Employment/Index.cshtml.g.cs
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/obj/Debug/netcoreapp3.1/Razor/Views/Testing/Index.cshtml.g.cs
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/obj/Debug/netcoreapp3.1/ProjectApp.RazorTargetAssemblyInfo.cache
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/obj/Debug/netcoreapp3.1/ProjectApp.RazorTargetAssemblyInfo.cs
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/obj/Debug/netcoreapp3.1/ProjectApp.Views.pdb
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/obj/Debug/netcoreapp3.1/ProjectApp.dll
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/obj/Debug/netcoreapp3.1/ProjectApp.pdb
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/obj/Debug/netcoreapp3.1/ProjectApp.genruntimeconfig.cache
+/Users/Testing/Downloads/ Nansen/BETraining/git/Project2 B/Personal Site/obj/Debug/netcoreapp3.1/ProjectApp.csproj.CopyComplete
