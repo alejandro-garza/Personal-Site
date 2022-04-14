@@ -1,11 +1,14 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Contentful.Core;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using ProjectApp.Models;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
+using System.Net.Http;
 using System.Threading.Tasks;
+
 
 namespace ProjectApp.Controllers
 {
@@ -21,34 +24,17 @@ namespace ProjectApp.Controllers
 
         public IActionResult Index()
         {
+            var httpClient = new HttpClient();
+            var client = new ContentfulClient(httpClient, "dwKsdh8rYhTGQ1VcLAUz2fYU8XzF_FsD-DBRtuyInwA", "8CPcrfazWE_piqt-gTUPx9YaSxMZZ_BznwMvKVkS4oY", "zl4g8ja5q050");
+
+            var entry = client.GetEntry<EducationEntry>("kaoCkG3tC6w2Lnk7FO3rr").Result;
+            var entries = client.GetEntries<EducationEntry>().Result.ToList();
+
+            Console.WriteLine(entry.Institution);
+
             var model = new EducationViewModel();
-            model.myEducation = new List<EducationEntry>();
-            model.myEducation.Add(new EducationEntry()
-            {
-                Institution = "App Academy",
-                Program = " / Bootcamp Prep Program",
-                Location = "ONLINE",
-                StartDate = new DateTime(2020, 7, 1),
-                EndDate = new DateTime(2020, 12, 31)
-            });
 
-            model.myEducation.Add(new EducationEntry()
-            {
-                Institution = "Northwest Vista College",
-                Program = " / Candidate for BA in Computer Science",
-                Location = "SAN ANTONIO, TEXAS",
-                StartDate = new DateTime(2019, 8, 1),
-                EndDate = new DateTime(2020, 8, 31)
-            });
-
-            model.myEducation.Add(new EducationEntry()
-            {
-                Institution = "Grinnell College",
-                Program = " / Credits in Biochemistry",
-                Location = "GRINNELL, IOWA",
-                StartDate = new DateTime(2012, 8, 1),
-                EndDate = new DateTime(2013, 5, 1)
-            });
+            model.myEducation = entries;
 
             model.myEducation = model.myEducation.OrderByDescending(employer => employer.StartDate).ToList();
 

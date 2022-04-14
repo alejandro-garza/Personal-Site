@@ -23,9 +23,9 @@
 
                 @foreach (var entry in @Model.myEducation)
                 {
-                    @if (entry.Program.IndexOf("Program") != -1)
+                    @if (entry.Institution != null && entry.Program.IndexOf("Program") != -1)
                     {
-                        <li><strong>@entry.Institution</strong>@entry.Program</li>
+                        <li><strong>@entry.Institution</strong> / @entry.Program</li>
                         <li><small>@entry.Location</small></li>
                         <li><small>@string.Format("{0} - {1}", @entry.StartDate.ToShortDateString(), @entry.EndDate.ToShortDateString())</small></li>
                         <br />
@@ -51,9 +51,10 @@
 
                 @foreach (var entry in @Model.myEducation)
                 {
-                    @if (entry.Program.IndexOf("Program") == -1)
+                    @if (entry.Institution != null && entry.Program.IndexOf("Program") == -1)
+                    @*@if (entry.Program.IndexOf("Program") == -1)*@
                     {
-                        <li><strong>@entry.Institution</strong>@entry.Program</li>
+                        <li><strong>@entry.Institution</strong> / @entry.Program</li>
                         <li><small>@entry.Location</small></li>
                         <li><small>@string.Format("{0} - {1}", @entry.StartDate.ToShortDateString(), @entry.EndDate.ToShortDateString())</small></li>
                         <br />

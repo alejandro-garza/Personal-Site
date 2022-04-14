@@ -24,23 +24,12 @@
                 {
                     @if (entry.EndDate == DateTime.MinValue)
                     {
-                        <li><strong>@entry.Company</strong>@entry.Position</li>
+                        <li><strong>@entry.Company</strong> / @entry.Position</li>
                         <li><small>@entry.Location</small></li>
                         <li><small>@entry.StartDate.ToShortDateString()</small></li>
-                        <li>
-                            <ul>
-                                <li>@entry.DetailA</li>
-                                <li>@entry.DetailB</li>
-                                @if (!String.IsNullOrEmpty(entry.DetailC))
-                                {
-                                    <li>@entry.DetailC</li>
-
-                                }
-                            </ul>
-                        </li>
+                        <li>entry.Details.Content</li>
                     }
                 }
-            </ul>
         </div>
     </div>
     <br />
@@ -60,24 +49,16 @@
 
                 @foreach (var entry in @Model.myEmployers)
                 {
-                    @if (entry.EndDate != DateTime.MinValue)
+                    @if (entry.Company != null)
                     {
-                        <li><strong>@entry.Company</strong>@entry.Position</li>
-                        <li><small>@entry.Location</small></li>
-                        <li><small>@string.Format("{0} - {1}", @entry.StartDate.ToShortDateString(), @entry.EndDate.ToShortDateString())</small></li>
-                        <li>
-                            <ul>
-                                <li>@entry.DetailA</li>
-                                <li>@entry.DetailB</li>
-                                @if (!String.IsNullOrEmpty(entry.DetailC))
-                                {
-                                    <li>@entry.DetailC</li>
+                        @if (entry.EndDate != DateTime.MinValue)
+                        {
+                            <li><strong>@entry.Company</strong> / @entry.Position</li>
+                            <li><small>@entry.Location</small></li>
+                            <li><small>@string.Format("{0} - {1}", @entry.StartDate.ToShortDateString(), @entry.EndDate.ToShortDateString())</small></li>
+                            <br />
 
-                                }
-                            </ul>
-                        </li>
-                        <br />
-
+                        }
                     }
                 }
 

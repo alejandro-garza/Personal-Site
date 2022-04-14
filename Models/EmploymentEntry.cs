@@ -1,4 +1,6 @@
 ﻿using System;
+using Contentful.Core.Models;
+
 namespace ProjectApp.Models
 {
     public class EmploymentEntry
@@ -8,9 +10,7 @@ namespace ProjectApp.Models
         public string Location { get; set; }
         public DateTime StartDate { get; set; }
         public DateTime EndDate { get; set; }
-        public string DetailA { get; set; }
-        public string DetailB { get; set; }
-        public string DetailC { get; set; }
+        public Document Details { get; set; }
 
         public EmploymentEntry()
         {
