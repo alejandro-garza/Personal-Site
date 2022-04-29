@@ -9,11 +9,13 @@
     <None Remove="Views\Index\" />
     <None Remove="Views\Home %28copy%29\" />
     <None Remove="contentful.aspnetcore" />
+    <None Remove="Services\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Employment\" />
     <Folder Include="Views\Education\" />
     <Folder Include="Views\Testing\" />
+    <Folder Include="Services\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="contentful.aspnetcore" Version="7.0.1" />

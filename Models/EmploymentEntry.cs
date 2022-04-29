@@ -11,6 +11,7 @@ namespace ProjectApp.Models
         public DateTime StartDate { get; set; }
         public DateTime EndDate { get; set; }
         public Document Details { get; set; }
+        public string DetailsString { get; set; }
 
         public EmploymentEntry()
         {

@@ -27,10 +27,11 @@
                         <li><strong>@entry.Company</strong> / @entry.Position</li>
                         <li><small>@entry.Location</small></li>
                         <li><small>@entry.StartDate.ToShortDateString()</small></li>
-                        <li>entry.Details.Content</li>
+                        <br />
+                        <li>@Html.Raw(entry.DetailsString)</li>
                     }
                 }
-        </div>
+</div>
     </div>
     <br />
 
@@ -56,6 +57,8 @@
                             <li><strong>@entry.Company</strong> / @entry.Position</li>
                             <li><small>@entry.Location</small></li>
                             <li><small>@string.Format("{0} - {1}", @entry.StartDate.ToShortDateString(), @entry.EndDate.ToShortDateString())</small></li>
+                            <br />
+                            <li>@Html.Raw(entry.DetailsString)</li>
                             <br />
 
                         }
