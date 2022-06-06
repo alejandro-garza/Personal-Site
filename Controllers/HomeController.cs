@@ -25,7 +25,7 @@ namespace ProjectApp.Controllers
             {
                 Fullname = "Ismael Alejandro Garza",
                 Profile = "Profile",
-                Title = "Prospective Developer",
+                Title = "Junior Developer",
                 Background = "Background"
             };
 
