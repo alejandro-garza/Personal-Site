@@ -18,7 +18,7 @@ namespace ProjectApp.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index() // ? Referenced in index.cshtml
+        public IActionResult Index() // Referenced in index.cshtml
         {
             //create a home view model
             var model = new HomeViewModel()
